@@ -1,0 +1,43 @@
+Flask==3.1.0
+flask-cors==5.0.1
+playwright==1.51.0
+pyttsx3==2.98
+SpeechRecognition==3.14.2
+requests==2.32.3
+rasa==3.6.21
+rasa-sdk==3.6.2
+pydantic==1.10.9
+
+#Python 3.10.0
+
+#pip install SpeechRecognition
+# pip install pyttsx3
+# pip install playwright
+# pip install requests
+# pip install pyaudio
+#python -m pip install Flask
+#python -m pip install flask-cors
+
+#python -m pip install rasa
+#python -m pip install rasa-sdk
+#python -m pip install pydantic
+#pip install SpeechRecognition
+#pip install playwright
+#python -m playwright install
+#pip install pyttsx3
+#pip install pipwin
+
+
+
+
+
+#pip install -r requirements.txt
+#Flask allows your voice assistant to:
+
+# Expose API endpoints to control the assistant remotely (start listening, search domains).
+
+# Create a web interface for triggering actions or displaying status.
+
+# Handle HTTP requests from a webpage or web app, allowing for flexible interaction.
+
+# By using Flask, you make your voice assistant more interactive and capable of handling requests from both voice and web interfaces.

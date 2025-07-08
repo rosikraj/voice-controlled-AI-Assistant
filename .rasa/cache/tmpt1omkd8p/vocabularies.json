@@ -1,0 +1,51 @@
+{
+  "text": {
+    "search": 10,
+    "for": 6,
+    "example": 4,
+    "com": 2,
+    "can": 1,
+    "you": 13,
+    "the": 11,
+    "domain": 3,
+    "google": 7,
+    "find": 5,
+    "turbify": 12,
+    "is": 8,
+    "org": 9,
+    "available": 0
+  },
+  "intent": {
+    "search": 7,
+    "affirm": 0,
+    "bot_challenge": 1,
+    "deny": 2,
+    "goodbye": 3,
+    "greet": 4,
+    "mood_great": 5,
+    "mood_unhappy": 6
+  },
+  "response": null,
+  "action_name": {
+    "action_listen": 6,
+    "action_restart": 7,
+    "action_session_start": 9,
+    "action_default_fallback": 4,
+    "action_deactivate_loop": 1,
+    "action_revert_fallback_events": 8,
+    "action_default_ask_affirmation": 2,
+    "action_default_ask_rephrase": 3,
+    "action_two_stage_fallback": 10,
+    "action_unlikely_intent": 11,
+    "action_back": 0,
+    "action_extract_slots": 5,
+    "utter_cheer_up": 12,
+    "utter_did_that_help": 13,
+    "utter_goodbye": 14,
+    "utter_greet": 15,
+    "utter_happy": 16,
+    "utter_iamabot": 17
+  },
+  "action_text": null,
+  "intent_response_key": null
+}

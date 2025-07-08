@@ -1,0 +1,24 @@
+nlu:
+- intent: greet
+  examples: |
+    - hello
+    - hi there
+    - hey
+
+- intent: exit
+  examples: |
+    - exit
+    - close the app
+    - goodbye
+
+- intent: search
+  examples: |
+    - search for google.com
+    - check if turbify.com is available
+    - find domain yahoo.org
+
+- intent: navigate
+  examples: |
+    - open web hosting
+    - go to domains page
+    - show me web hosting
