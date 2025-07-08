@@ -19,10 +19,7 @@ We used only **free, open-source tools** to build this:
 
 ### 🔹 1. Install Python 3.10
 
-Make sure you're using **Python 3.10.x** (not 3.11+ due to compatibility with some dependencies).
-
-📥 Download here: https://www.python.org/downloads/release/python-3100/  
-> 📌 During install, make sure to check **"Add Python to PATH"**
+Make sure you're using **Python 3.10.x** (not 3.11+ due to compatibility with some dependencies).-python-3.10.0-amd64.exe
 
 ---
 
